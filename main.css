@@ -165,6 +165,7 @@ form input, form button, form textarea {
     margin-bottom: 8px;
     padding: 8px;
     border-radius: 20px;
+    box-shadow: 3px 3px 7px rgba(87, 87, 87, 0.445);
 }
 
 form textarea {
